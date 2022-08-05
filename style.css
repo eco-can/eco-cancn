@@ -6,6 +6,19 @@ html {
   font-weight: 400;
 }
 
+
+.image {
+  padding-left: 70px;
+}
+
+.image img {
+  height: 210px;
+  width: 280px;
+  margin-top: -70px;
+
+}
+
+
 .card img {
   height: 200px;
   width: 300px;
@@ -24,6 +37,67 @@ img {
   float: left;
 }
 
+.founder {
+  font-size: 15px;
+  color: #757474;
+  padding-left: 13px;
+  margin-top: -10px;
+}
+
+.personName {
+  padding-left: 14px;
+  color: #2e2d2d;
+  font-size: 19px;
+}
+
+.personInfo {
+  padding-left: 14px;
+  padding-top: 5px;
+  color: #4f4b4b;
+}
+
+
+.person1 {
+  float: left;
+  height: 300px;
+  width: 270px;
+  border: solid black;
+  margin-right: 20px;
+  margin-left: 47px;
+  border-radius: 20px;
+  border-color: #008C8C;
+}
+
+.person2{
+  float: left;
+  height: 300px;
+  width: 270px;
+  border: solid black;
+  margin-right: 20px;
+  border-radius: 20px;
+  border-color: #008C8C;
+}
+
+.person3{
+  float: left;
+  height: 300px;
+  width: 270px;
+  border: solid black;
+  margin-right: 20px;
+  border-radius: 20px;
+  border-color: #008C8C;
+}  
+
+.person4{
+  float: left;
+  height: 300px;
+  width: 270px;
+  border: solid black;
+  margin-right: 20px;
+  border-radius: 20px;
+  border-color: #008C8C;
+
+}
 
 .steps {
   padding-left: 20px;
@@ -86,13 +160,23 @@ img {
   text-decoration: none;
 }
 
-.desc h1 {
-  font-size: 47px;
+.desc1 h1 {
+  font-size: 35px;
   text-align: right;
   padding-left: 50px;
-  padding-top: 110px;
-  padding-right: 5px;
-  padding-bottom: 145px;
+  padding-top: 40px;
+  padding-right: 40px;
+  padding-bottom: 150px;
+  margin-bottom: -70px;
+}
+
+.desc h1 {
+  font-size: 50px;
+  text-align: right;
+  padding-left: 50px;
+  padding-top: 90px;
+  padding-right: 60px;
+  padding-bottom: 150px;
   margin-bottom: -70px;
   
 }
