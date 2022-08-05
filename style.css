@@ -87,12 +87,12 @@ img {
 }
 
 .desc h1 {
-  font-size: 50px;
+  font-size: 47px;
   text-align: right;
   padding-left: 50px;
-  padding-top: 90px;
-  padding-right: 60px;
-  padding-bottom: 150px;
+  padding-top: 110px;
+  padding-right: 5px;
+  padding-bottom: 145px;
   margin-bottom: -70px;
   
 }
