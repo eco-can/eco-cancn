@@ -1,6 +1,6 @@
-var points = 400;
+var points = 500;
 
 function updateText() {
-document.getElementById("exchangeText").innerHTML = "Exchanged! Gift card code: TESTCODE123";
-document.getElementById("pointCounter").innerHTML = "My account points: 0";
+document.getElementById("exchangeText").innerHTML = "已兑换! 礼品卡代码: TESTCODE123";
+document.getElementById("pointCounter").innerHTML = "我的账号积分: 0";
 }
